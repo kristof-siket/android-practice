@@ -2,4 +2,7 @@
     <string name="app_name">Android_tryout</string>
     <string name="edit_message">Enter a message</string>
     <string name="button_send">Send</string>
+    <string name="dialog_message">Az alkalmazás elindult!</string>
+    <string name="dialog_title">Üzenet</string>
+    <string name="cancel">Rendben</string>
 </resources>
